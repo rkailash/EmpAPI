@@ -2,7 +2,7 @@
 REST API in ASP.Net Core
 A Simple REST API in ASP.Net Core
 
-Employee object has - First Name, Last Name, Date of Joining, Manager, IsActive(true/false).
+An employee has - First Name, Last Name, Date of Joining, Manager, IsActive(true/false).
 The API uses an in-memory database for data persistence.
 
 | API End Point | Description | Request Body | Response Body |
