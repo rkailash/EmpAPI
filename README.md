@@ -1,9 +1,7 @@
 # EmpAPI
-REST API in ASP.Net Core
 A Simple REST API in ASP.Net Core
 
-An employee has - First Name, Last Name, Date of Joining, Manager, IsActive(true/false).
-The API uses an in-memory database for data persistence.
+This API can be used as a simple employee register. An employee has - First Name, Last Name, Date of Joining, Manager, IsActive(true/false). The API uses an in-memory database for data persistence. The table below shows the endpoints and the response.
 
 | API End Point | Description | Request Body | Response Body |
 |----------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------|
