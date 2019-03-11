@@ -20,21 +20,19 @@ namespace EmpApi.Controllers
 
             if (_context.EmpCollection.Count() == 0)
             {
-                // Create a new TodoItem if collection is empty,
-                // which means you can't delete all TodoItems.
                 _context.EmpCollection.Add(new Employee { FirstName = "John", LastName = "Doe", DateOfJoining = System.DateTime.Now, Manager = "Tom", IsActive = true });
                 _context.SaveChanges();
             }
         }
 
-        // GET: api/Emp
+        // GET - api/Emp
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Employee>>> GetEmployees()
         {
             return await _context.EmpCollection.ToListAsync();
         }
 
-        // GET: api/Emp/5
+        // GET - api/Emp/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Employee>> GetEmployee(long id)
         {
@@ -48,7 +46,7 @@ namespace EmpApi.Controllers
             return emp;
         }
 
-        // POST: api/emp
+        // POST - api/emp
         [HttpPost]
         public async Task<ActionResult<Employee>> CreateEmp(Employee emp)
         {
@@ -60,7 +58,7 @@ namespace EmpApi.Controllers
             return CreatedAtAction(nameof(GetEmployee), new { id = emp.Id }, emp);
         }
 
-        // PUT: api/emp/5
+        // PUT - api/emp/5
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateEmp(long id, Employee emp)
         {
@@ -75,7 +73,7 @@ namespace EmpApi.Controllers
             return NoContent();
         }
 
-        // DELETE: api/emp/5
+        // DELETE - api/emp/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteEmp(long id)
         {

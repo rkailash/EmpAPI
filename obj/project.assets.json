@@ -12077,11 +12077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnetapi\\TodoApi\\EmpApi\\EmpApi.csproj",
+      "projectUniqueName": "D:\\ASPNET\\EmpAPI\\EmpApi.csproj",
       "projectName": "EmpApi",
-      "projectPath": "D:\\dotnetapi\\TodoApi\\EmpApi\\EmpApi.csproj",
+      "projectPath": "D:\\ASPNET\\EmpAPI\\EmpApi.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnetapi\\TodoApi\\EmpApi\\obj\\",
+      "outputPath": "D:\\ASPNET\\EmpAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

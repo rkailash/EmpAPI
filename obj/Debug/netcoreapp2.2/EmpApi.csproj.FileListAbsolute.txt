@@ -12,3 +12,17 @@ D:\dotnetapi\TodoApi\EmpApi\bin\Debug\netcoreapp2.2\EmpApi.pdb
 D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.RazorTargetAssemblyInfo.cache
 D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.dll
 D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.pdb
+D:\ASPNET\EmpAPI\bin\Debug\netcoreapp2.2\EmpApi.deps.json
+D:\ASPNET\EmpAPI\bin\Debug\netcoreapp2.2\EmpApi.runtimeconfig.json
+D:\ASPNET\EmpAPI\bin\Debug\netcoreapp2.2\EmpApi.runtimeconfig.dev.json
+D:\ASPNET\EmpAPI\bin\Debug\netcoreapp2.2\EmpApi.dll
+D:\ASPNET\EmpAPI\bin\Debug\netcoreapp2.2\EmpApi.pdb
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.csprojAssemblyReference.cache
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.csproj.CoreCompileInputs.cache
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.RazorAssemblyInfo.cache
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.RazorAssemblyInfo.cs
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.AssemblyInfoInputs.cache
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.AssemblyInfo.cs
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.RazorTargetAssemblyInfo.cache
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.dll
+D:\ASPNET\EmpAPI\obj\Debug\netcoreapp2.2\EmpApi.pdb
