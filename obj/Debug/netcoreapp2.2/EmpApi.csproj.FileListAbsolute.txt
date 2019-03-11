@@ -1,0 +1,14 @@
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.csprojAssemblyReference.cache
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.csproj.CoreCompileInputs.cache
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.RazorAssemblyInfo.cache
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.RazorAssemblyInfo.cs
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.AssemblyInfoInputs.cache
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.AssemblyInfo.cs
+D:\dotnetapi\TodoApi\EmpApi\bin\Debug\netcoreapp2.2\EmpApi.deps.json
+D:\dotnetapi\TodoApi\EmpApi\bin\Debug\netcoreapp2.2\EmpApi.runtimeconfig.json
+D:\dotnetapi\TodoApi\EmpApi\bin\Debug\netcoreapp2.2\EmpApi.runtimeconfig.dev.json
+D:\dotnetapi\TodoApi\EmpApi\bin\Debug\netcoreapp2.2\EmpApi.dll
+D:\dotnetapi\TodoApi\EmpApi\bin\Debug\netcoreapp2.2\EmpApi.pdb
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.RazorTargetAssemblyInfo.cache
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.dll
+D:\dotnetapi\TodoApi\EmpApi\obj\Debug\netcoreapp2.2\EmpApi.pdb
